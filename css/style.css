@@ -1,7 +1,18 @@
 body {
 	font-size: 15pt;
+	scroll-behavior: smooth;
+	-webkit-user-select: none;
+	/* Chrome, Safari, Android and iOS */
+	-moz-user-select: none;
+	/* Firefox */
+	-ms-user-select: none;
+	/* Internet Explorer */
+	user-select: none;
+	/* Disables text selection */
 	margin: 0;
-
+	padding: 0;
+	/* Remove margins and paddings on elements */
+	box-sizing: border-box;
 }
 
 .default_ngp .at .checkbox-list-label,
