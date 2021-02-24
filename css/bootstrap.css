@@ -11590,8 +11590,9 @@ main {
 }
 
 .treated-image .is-burn {
-  background: -moz-linear-gradient(left, #243D7F 0, rgba(36, 61, 127, 0) 100%);
-  background: linear-gradient(to right, #243D7F 0, rgba(36, 61, 127, 0) 100%)
+  background-image: url(../img/1.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .treated-image .is-burn.center {
@@ -13655,7 +13656,6 @@ main {
   line-height: 58px;
   display: block;
   text-align: center;
-  font-size: 32px !important;
   letter-spacing: 0
 }
 
@@ -13821,7 +13821,7 @@ a {
 
 @media(max-width:991px) {
   .one-click-donate a {
-    font-size: 26px !important
+    /* font-size: 26px !important */
   }
 }
 
@@ -28089,7 +28089,7 @@ a.default_ngp .form-unit .radios label:hover {
   }
 
   .footer-signup .darker {
-    display: none
+    display: block
   }
 
   .footer-signup form:after,
