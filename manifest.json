@@ -1,0 +1,61 @@
+{
+  "icons": [
+    {
+      "src": "img/logo.jpg",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "72x72",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "92x92",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "96x96",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "120x120",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "144x144",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#0070f5",
+  "background_color": "#ffffff",
+  "short_name": "Vote Uche Cyprain",
+  "name": "Vote Uche Cyprain for SUG President AE-FUNAI",
+  "orientation": "portrait"
+}
