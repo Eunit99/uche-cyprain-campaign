@@ -70,9 +70,6 @@ article .article-wrapper ul ul {
 }
 
 @media (min-width: 768px) {
-	.intro .text-stuff h2 {
-		/* margin-top: 50px; */
-	}
 
 	.topper.big-cta .big-group-wrap {
 		top: 53%
