@@ -1,1 +1,1 @@
-### This is a repo for the website of Sen. Uche Cyprain Tochukwu. This website was created for him during his campaign at AE-FUNAI
+### This is a repo for the website of Sen. Uche Cyprian Tochukwu. This website was created for him during his campaign for the 2020-2021 SUG Elections at AE-FUNAI
